@@ -1,6 +1,6 @@
 # This repository implements react router 
 
-`
+```
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './Home';
@@ -34,4 +34,4 @@ const App = () => {
 };
 
 export default App;
-`
+```
