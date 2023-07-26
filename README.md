@@ -1,4 +1,9 @@
+# This repository implements react router 
 
+## react-router-dom, current version 6.0 and this version has some updates. 
+
+### react-router-dom use Routes instead of Switch, stay updated before using this code
+ 
 ```
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
